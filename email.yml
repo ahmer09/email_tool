@@ -1,0 +1,20 @@
+name: simple email tool
+description: This tool launches default signed in email in new browser with email content
+
+input:
+  to:
+    type: string
+    description: recipient's email
+
+  subject:
+    type: string
+    description: subject line of the email
+
+  body:
+    type: string
+    description: email content to be sent
+
+output:
+  None:
+    type: None
+    description: None
