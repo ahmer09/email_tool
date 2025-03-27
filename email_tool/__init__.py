@@ -4,4 +4,4 @@
 from .email_tool import create_and_show_email
 
 # You can also define module-level variables or functions here
-__version__ = "0.1"
+__version__ = "0.0.1"
