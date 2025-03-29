@@ -1,5 +1,7 @@
 name: simple email tool
 description: This tool launches default signed in email in new browser with email content
+enabled: true
+path: "email_tool.src.email_tool"
 
 input:
   to:
